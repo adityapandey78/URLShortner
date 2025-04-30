@@ -2,7 +2,7 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "best backend",
-  "main": "index.js",
+  "main": "main.js",
   "type": "module",
   "scripts": {
     "dev":"node --watch app.js",
